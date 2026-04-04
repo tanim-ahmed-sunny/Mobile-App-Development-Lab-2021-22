@@ -1,6 +1,6 @@
 # bu_cse_lab
-
-A new Flutter project.
+Tanim Ahmed
+22CSE032
 
 ## Getting Started
 
